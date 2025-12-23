@@ -48,3 +48,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 
 # UML Diagram
+![UML Class Diagram](https://github.com/eunicemabasa/Mabasa_ObserverPattern_LabAss6/blob/main/Observer_Pattern.png)
